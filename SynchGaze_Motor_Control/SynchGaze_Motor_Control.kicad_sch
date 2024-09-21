@@ -1,0 +1,119 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "a591a4a0-93a8-4a3b-994d-4036a770364c")
+	(paper "A4")
+	(title_block
+		(title " SynchGaze - Motor Control")
+		(date "2024-09-21")
+		(rev "1.0")
+		(company "WM")
+	)
+	(lib_symbols)
+	(text "DC/DC\nCONVERTER"
+		(exclude_from_sim no)
+		(at 111.76 95.25 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "651474e1-d19f-4c04-95ab-f46caa14f187")
+	)
+	(text "MCU"
+		(exclude_from_sim no)
+		(at 187.706 95.25 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "abdd81e8-3cf3-44b8-86ab-f6fdf7593267")
+	)
+	(sheet
+		(at 82.55 74.93)
+		(size 58.42 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 233 176 1.0000)
+		)
+		(uuid "7369541a-070a-4211-bd9b-ae2b5020e449")
+		(property "Sheetname" "Power"
+			(at 82.55 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 82.55 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SynchGaze_Motor_Control"
+				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 158.75 74.93)
+		(size 58.42 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 233 176 1.0000)
+		)
+		(uuid "b941f2c2-1724-41ab-89d1-536a4b839b09")
+		(property "Sheetname" "MCU"
+			(at 158.75 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 158.75 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SynchGaze_Motor_Control"
+				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
