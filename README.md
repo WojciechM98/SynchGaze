@@ -1,5 +1,5 @@
 # SynchGaze
-PC Keyboard with embedded functionality for fast prototyping and testing external devices.
+A project that allows you to control camera movement by moving your head.
 
 
 ## Project assumptions
