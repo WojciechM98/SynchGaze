@@ -1,0 +1,118 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5f2938db-5c90-46e8-a743-e602e3a8039e")
+	(paper "A4")
+	(title_block
+		(title "SynchGaze - Transmiter")
+		(date "2024-09-21")
+		(rev "1.0")
+		(company "WM")
+	)
+	(lib_symbols)
+	(text "MCU"
+		(exclude_from_sim no)
+		(at 191.516 98.298 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(bold yes)
+			)
+		)
+		(uuid "1d895082-b340-4566-aa9a-18119b4c53a2")
+	)
+	(text "DC/DC\nCONVERTERS"
+		(exclude_from_sim no)
+		(at 107.95 98.552 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+				(bold yes)
+			)
+		)
+		(uuid "44881858-5e7b-4e35-827e-9a1b40b34d61")
+	)
+	(sheet
+		(at 76.2 76.2)
+		(size 63.5 44.45)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 233 176 1.0000)
+		)
+		(uuid "2a89835e-ba1e-4c3c-9584-cd8d13767b37")
+		(property "Sheetname" "Power"
+			(at 76.2 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 76.2 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SynchGaze_Transmiter"
+				(path "/5f2938db-5c90-46e8-a743-e602e3a8039e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 76.2)
+		(size 63.5 44.45)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 233 176 1.0000)
+		)
+		(uuid "482f71cf-a95e-4120-9c00-d45aa2a7a3af")
+		(property "Sheetname" "MCU"
+			(at 160.02 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 160.02 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SynchGaze_Transmiter"
+				(path "/5f2938db-5c90-46e8-a743-e602e3a8039e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
