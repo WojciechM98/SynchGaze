@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title " SynchGaze - Motor Control")
-		(date "2024-09-21")
-		(rev "1.0")
+		(date "2025-01-06")
+		(rev "1.1")
 		(company "WM")
 	)
 	(lib_symbols)
