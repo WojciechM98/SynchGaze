@@ -154,13 +154,13 @@
 	(pad "1" smd circle
 		(at -0.762 0)
 		(size 1 1)
-		(layers "F.Cu")
+		(layers "*.Mask" "F.Cu")
 		(uuid "16b73522-b7d5-41c9-9b20-d94900ebc232")
 	)
 	(pad "2" smd circle
 		(at 0.762 0)
 		(size 1 1)
-		(layers "F.Cu")
+		(layers "*.Mask" "F.Cu")
 		(uuid "aa535f3c-54b9-4558-87c0-056cff026ccb")
 	)
 	(zone

@@ -5012,6 +5012,7 @@
 		(property "Reference" "J201"
 			(at -1.825 -8.635 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ae637c2b-6cef-40bf-b798-cbcb8ef7eb62")
 			(effects
 				(font
@@ -5040,6 +5041,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5052,6 +5054,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5064,6 +5067,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
