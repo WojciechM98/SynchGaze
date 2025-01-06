@@ -14,6 +14,6 @@ This board should be neatly attached to the user's head.
 ## SynchGaze Motor Control
 Motor Control board recieve preprocessed data from Transmiter and converts it into BLDC motors movement. STM32 works in closed loop gathering data from external IMU device whith is attached in the same place as camera. When new information from Transmiter board is recieved the possition according to external IMU is corrected by sending information about revolutions and acceleration to specific motor controler.
 
-![Alt text](SynchGaze_Motor_Control/SynchGaze_Motor_Control.png?raw=true "SynchGaze Motor Control board.")
+![Alt text](SynchGaze_Motor_Control/SynchGaze_Motor_Control.png?raw=true "SynchGaze Motor Control board.") 
 
 

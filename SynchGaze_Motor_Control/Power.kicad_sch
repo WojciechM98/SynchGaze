@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title " SynchGaze - Motor Control")
-		(date "2024-09-21")
-		(rev "1.0")
+		(date "2025-01-06")
+		(rev "1.1")
 		(company "WM")
 	)
 	(lib_symbols
@@ -2142,7 +2142,7 @@
 		(uuid "46bdca1a-82e7-4687-9b9b-9482ad41f6fc")
 	)
 	(junction
-		(at 236.22 78.74)
+		(at 240.03 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4cc9ebd1-d208-4493-96c6-37acbaaa3410")
@@ -2172,13 +2172,13 @@
 		(uuid "7f01eee4-e918-43f7-8d9f-d50d44f4271d")
 	)
 	(junction
-		(at 246.38 68.58)
+		(at 252.73 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "81cc116c-c76c-4aa2-86dc-03f5f8e7237c")
 	)
 	(junction
-		(at 236.22 93.98)
+		(at 240.03 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "843fba47-d46a-4bac-a543-1c5dd0b71b9d")
@@ -2238,7 +2238,7 @@
 		(uuid "e9fd0b68-dfb0-4870-ba27-575e34f9b3e4")
 	)
 	(junction
-		(at 236.22 68.58)
+		(at 240.03 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f441a0a6-ee0a-4077-b682-7bcdf0a1d2b3")
@@ -2371,7 +2371,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 78.74) (xy 133.35 81.28)
+			(xy 129.54 78.74) (xy 129.54 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2401,7 +2401,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 68.58) (xy 236.22 68.58)
+			(xy 226.06 68.58) (xy 240.03 68.58)
 		)
 		(stroke
 			(width 0)
@@ -2441,7 +2441,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 88.9) (xy 133.35 88.9)
+			(xy 127 88.9) (xy 129.54 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2471,7 +2471,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 78.74) (xy 226.06 78.74)
+			(xy 240.03 78.74) (xy 226.06 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2481,7 +2481,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 68.58) (xy 246.38 68.58)
+			(xy 240.03 68.58) (xy 252.73 68.58)
 		)
 		(stroke
 			(width 0)
@@ -2501,7 +2501,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 68.58) (xy 236.22 71.12)
+			(xy 240.03 68.58) (xy 240.03 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2581,7 +2581,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 68.58) (xy 246.38 71.12)
+			(xy 252.73 68.58) (xy 252.73 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2661,7 +2661,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 93.98) (xy 246.38 93.98)
+			(xy 240.03 93.98) (xy 252.73 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2701,7 +2701,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 78.74) (xy 133.35 78.74)
+			(xy 144.78 78.74) (xy 129.54 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2721,7 +2721,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 63.5) (xy 246.38 68.58)
+			(xy 252.73 63.5) (xy 252.73 68.58)
 		)
 		(stroke
 			(width 0)
@@ -2751,7 +2751,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 96.52) (xy 236.22 93.98)
+			(xy 240.03 96.52) (xy 240.03 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2881,7 +2881,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 88.9) (xy 133.35 86.36)
+			(xy 129.54 88.9) (xy 129.54 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2921,7 +2921,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 93.98) (xy 236.22 78.74)
+			(xy 240.03 93.98) (xy 240.03 78.74)
 		)
 		(stroke
 			(width 0)
@@ -3061,7 +3061,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 88.9) (xy 246.38 93.98)
+			(xy 252.73 88.9) (xy 252.73 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3071,7 +3071,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 76.2) (xy 236.22 78.74)
+			(xy 240.03 76.2) (xy 240.03 78.74)
 		)
 		(stroke
 			(width 0)
@@ -3151,7 +3151,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 76.2) (xy 246.38 81.28)
+			(xy 252.73 76.2) (xy 252.73 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3210,26 +3210,6 @@
 			)
 		)
 		(uuid "014cf2ad-ed89-4409-adc3-27db5c342110")
-	)
-	(text "green"
-		(exclude_from_sim no)
-		(at 121.666 88.392 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2e7f020b-1e66-4138-ba14-359c5d729fbd")
-	)
-	(text "green"
-		(exclude_from_sim no)
-		(at 251.206 88.138 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "6fdd4d2a-824b-4187-8688-d7102d6e58c9")
 	)
 	(text ">=3A"
 		(exclude_from_sim no)
@@ -3327,7 +3307,7 @@
 		(uuid "43fcff4f-c349-4fef-a1ca-dd851652614b")
 	)
 	(label "D401_R401"
-		(at 246.38 77.47 270)
+		(at 252.73 77.47 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3337,7 +3317,7 @@
 		)
 		(uuid "4d6fb8b1-26f0-49ad-a4bb-21e484eebd75")
 		(property "Odnośniki arkuszy" "${INTERSHEET_REFS}"
-			(at 246.38 83.3132 90)
+			(at 252.73 83.3132 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3408,7 +3388,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10u/25V"
 			(at 228.6 74.9362 0)
 			(effects
 				(font
@@ -3478,7 +3458,7 @@
 			(uuid "9a6193c6-6c2b-40a6-85be-2b02cdda749a")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "C403")
 					(unit 1)
@@ -3488,7 +3468,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 246.38 73.66 0)
+		(at 252.73 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3496,7 +3476,7 @@
 		(dnp no)
 		(uuid "08a7e568-1f54-4049-842d-08827b4c5e32")
 		(property "Reference" "R401"
-			(at 247.904 72.39 0)
+			(at 254.254 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3505,7 +3485,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 247.904 74.93 0)
+			(at 254.254 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3514,7 +3494,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 246.38 73.66 0)
+			(at 252.73 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3523,7 +3503,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 246.38 73.66 0)
+			(at 252.73 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3532,7 +3512,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 246.38 73.66 0)
+			(at 252.73 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3541,7 +3521,7 @@
 			)
 		)
 		(property "Manufacturer" "YAGEO"
-			(at 246.38 73.66 0)
+			(at 252.73 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3550,7 +3530,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "RC0402JR-07100RP"
-			(at 246.38 73.66 0)
+			(at 252.73 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3559,7 +3539,7 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.pl/ProductDetail/YAGEO/RC0402JR-07100RP?qs=oypCK0zG327dOPz2698Mug%3D%3D"
-			(at 246.38 73.66 0)
+			(at 252.73 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3574,7 +3554,7 @@
 			(uuid "68c5113e-0a6c-4f6c-97ca-a57c2ee76c13")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "R401")
 					(unit 1)
@@ -3641,7 +3621,7 @@
 			(uuid "fab9633c-272d-4fdc-ae3a-a29c82315e03")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "#PWR0407")
 					(unit 1)
@@ -3737,7 +3717,7 @@
 			(uuid "1d95aa90-ed9c-4e8e-bc35-dfed81144147")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "R406")
 					(unit 1)
@@ -3747,7 +3727,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 236.22 73.66 0)
+		(at 240.03 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3756,7 +3736,7 @@
 		(fields_autoplaced yes)
 		(uuid "2083257a-659c-4c2e-89b8-d8fb2ffb33ad")
 		(property "Reference" "C404"
-			(at 238.76 72.3962 0)
+			(at 242.57 72.3962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3764,8 +3744,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
-			(at 238.76 74.9362 0)
+		(property "Value" "10u/25V"
+			(at 242.57 74.9362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3774,7 +3754,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 236.22 73.66 0)
+			(at 240.03 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3783,7 +3763,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 236.22 73.66 0)
+			(at 240.03 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3792,7 +3772,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 236.22 73.66 0)
+			(at 240.03 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3801,7 +3781,7 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 236.22 73.66 0)
+			(at 240.03 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3810,7 +3790,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "CL31B106KAHNFNE"
-			(at 236.22 73.66 0)
+			(at 240.03 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3819,7 +3799,7 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.pl/ProductDetail/Samsung-Electro-Mechanics/CL31B106KAHNFNE?qs=xZ%2FP%252Ba9zWqbvZ%2FuLWvQDdQ%3D%3D"
-			(at 236.22 73.66 0)
+			(at 240.03 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3834,7 +3814,7 @@
 			(uuid "3127a50a-fbd6-48e4-9dff-3738eae5b163")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "C404")
 					(unit 1)
@@ -3915,7 +3895,7 @@
 			(uuid "8f2f9dec-45e0-458d-8d08-5320666a254d")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "Q401")
 					(unit 1)
@@ -4186,7 +4166,7 @@
 			(uuid "d3e35f48-2cbf-4e6b-ba6d-38ee36321ef2")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "U401")
 					(unit 1)
@@ -4268,7 +4248,7 @@
 			(uuid "22c7569e-2836-4ecc-99e8-8bfc6bd34edc")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "Q402")
 					(unit 1)
@@ -4335,7 +4315,7 @@
 			(uuid "ee3ebfe5-c97b-46fc-823b-60f827aa6301")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "#PWR0404")
 					(unit 1)
@@ -4402,7 +4382,7 @@
 			(uuid "32d0b37c-7f04-437e-a34c-fafbeb9ef452")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "#PWR0406")
 					(unit 1)
@@ -4412,7 +4392,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 246.38 85.09 270)
+		(at 252.73 85.09 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4421,15 +4401,15 @@
 		(dnp no)
 		(uuid "62ee0d90-1ec9-4393-a9ab-a31579dd80c7")
 		(property "Reference" "D401"
-			(at 250.952 83.82 90)
+			(at 257.302 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "3V3"
-			(at 250.952 86.36 90)
+		(property "Value" "3V3_G"
+			(at 257.302 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4437,7 +4417,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 246.38 85.09 0)
+			(at 252.73 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4445,8 +4425,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 246.38 85.09 0)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060GS55040.pdf"
+			(at 252.73 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4455,7 +4435,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 246.38 85.09 0)
+			(at 252.73 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4463,8 +4443,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Lite-On"
-			(at 246.38 85.09 0)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 252.73 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4472,8 +4452,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " LTST-C190GKT"
-			(at 246.38 85.09 0)
+		(property "Manufacturer Part Number" "150060GS55040"
+			(at 252.73 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4481,8 +4461,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "https://www.mouser.pl/ProductDetail/Lite-On/LTST-C190GKT?qs=drxkyCeiWgbQzclgbojDOg%3D%3D"
-			(at 246.38 85.09 0)
+		(property "Mouser" "https://www.mouser.pl/ProductDetail/Wurth-Elektronik/150060GS55040?qs=fAHHVMwC%252Bbhr5Aln2oA6Nw%3D%3D"
+			(at 252.73 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4497,7 +4477,7 @@
 			(uuid "6142eb25-c129-4e1c-a880-e4ca87cf7317")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "D401")
 					(unit 1)
@@ -4562,7 +4542,7 @@
 			(uuid "81514ac3-e6f3-410d-b7c3-45347aff2e33")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "#PWR0412")
 					(unit 1)
@@ -4659,7 +4639,7 @@
 			(uuid "9e0905a7-8e12-452c-8deb-a7851ba58d0c")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "R402")
 					(unit 1)
@@ -4756,7 +4736,7 @@
 			(uuid "8cb05356-a34b-4063-9ab2-309c47cf8ac0")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "R407")
 					(unit 1)
@@ -4852,7 +4832,7 @@
 			(uuid "89ff0aee-4b47-4cb7-b11b-d4c958baece6")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "R404")
 					(unit 1)
@@ -4918,7 +4898,7 @@
 			(uuid "bd561553-4b22-4933-a46c-8316b78a97ef")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "#PWR0401")
 					(unit 1)
@@ -4944,7 +4924,7 @@
 				)
 			)
 		)
-		(property "Value" "VIN"
+		(property "Value" "VIN_G"
 			(at 121.412 86.36 90)
 			(effects
 				(font
@@ -4961,7 +4941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060GS55040.pdf"
 			(at 116.84 85.09 0)
 			(effects
 				(font
@@ -4979,7 +4959,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Lite-On"
+		(property "Manufacturer" "Wurth Elektronik"
 			(at 116.84 85.09 0)
 			(effects
 				(font
@@ -4988,7 +4968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " LTST-C190GKT"
+		(property "Manufacturer Part Number" "150060GS55040"
 			(at 116.84 85.09 0)
 			(effects
 				(font
@@ -4997,7 +4977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "https://www.mouser.pl/ProductDetail/Lite-On/LTST-C190GKT?qs=drxkyCeiWgbQzclgbojDOg%3D%3D"
+		(property "Mouser" "https://www.mouser.pl/ProductDetail/Wurth-Elektronik/150060GS55040?qs=fAHHVMwC%252Bbhr5Aln2oA6Nw%3D%3D"
 			(at 116.84 85.09 0)
 			(effects
 				(font
@@ -5013,7 +4993,7 @@
 			(uuid "ef8e67c4-0a06-47e6-aa35-3025626e1d5c")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "D402")
 					(unit 1)
@@ -5109,7 +5089,7 @@
 			(uuid "20eca553-def5-44e7-b2a7-a5b636e0412a")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "R409")
 					(unit 1)
@@ -5205,7 +5185,7 @@
 			(uuid "aa56ad67-9495-422d-81eb-9fd6500a97b3")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "R408")
 					(unit 1)
@@ -5301,7 +5281,7 @@
 			(uuid "4e5d4258-a8ca-4b7c-be4e-aec46c7b78b6")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "R403")
 					(unit 1)
@@ -5368,7 +5348,7 @@
 			(uuid "28a4db28-f741-44dc-9412-c41313daa791")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "#PWR0411")
 					(unit 1)
@@ -5433,7 +5413,7 @@
 			(uuid "ca24cb5c-547b-40ae-952e-1ba5aef053da")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "#PWR0410")
 					(unit 1)
@@ -5521,7 +5501,7 @@
 			(uuid "2b66b502-d1d7-4b87-8d10-e35fe9f94168")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "J402")
 					(unit 1)
@@ -5531,7 +5511,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 246.38 63.5 0)
+		(at 252.73 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5540,7 +5520,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9cecd02-33c6-4abb-a41c-1aaeb1fe62c5")
 		(property "Reference" "#PWR0402"
-			(at 246.38 67.31 0)
+			(at 252.73 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5549,7 +5529,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 246.38 58.42 0)
+			(at 252.73 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5557,7 +5537,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 63.5 0)
+			(at 252.73 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5566,7 +5546,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 63.5 0)
+			(at 252.73 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5575,7 +5555,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 246.38 63.5 0)
+			(at 252.73 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5587,7 +5567,7 @@
 			(uuid "dbdb2aed-e466-48dd-8c84-9db236061a66")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "#PWR0402")
 					(unit 1)
@@ -5654,7 +5634,7 @@
 			(uuid "8271e36e-0913-4091-aa4b-a98b75ffc4be")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "#PWR0405")
 					(unit 1)
@@ -5750,7 +5730,7 @@
 			(uuid "0a1b22ed-cfe1-4c12-9751-d67e337dbefd")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "R405")
 					(unit 1)
@@ -5760,7 +5740,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 236.22 96.52 0)
+		(at 240.03 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5769,7 +5749,7 @@
 		(fields_autoplaced yes)
 		(uuid "d5295035-b869-468b-9bed-89ed794a168b")
 		(property "Reference" "#PWR0409"
-			(at 236.22 102.87 0)
+			(at 240.03 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5778,7 +5758,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 236.22 101.6 0)
+			(at 240.03 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5787,7 +5767,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 96.52 0)
+			(at 240.03 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5796,7 +5776,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 96.52 0)
+			(at 240.03 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5805,7 +5785,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 236.22 96.52 0)
+			(at 240.03 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5817,7 +5797,7 @@
 			(uuid "66087f28-feba-4f7c-862d-c9ef36a89cf2")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "#PWR0409")
 					(unit 1)
@@ -5884,7 +5864,7 @@
 			(uuid "2fe0488f-9c76-4a6d-a216-fa8625b63f50")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "#PWR0413")
 					(unit 1)
@@ -5894,7 +5874,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 133.35 83.82 0)
+		(at 129.54 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5903,7 +5883,7 @@
 		(fields_autoplaced yes)
 		(uuid "e3dd9677-4f34-4c9c-979d-6f752ff034da")
 		(property "Reference" "C402"
-			(at 135.89 82.5562 0)
+			(at 132.08 82.5562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5911,8 +5891,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3.3n"
-			(at 135.89 85.0962 0)
+		(property "Value" "3.3n/25V"
+			(at 132.08 85.0962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5921,7 +5901,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 133.35 83.82 0)
+			(at 129.54 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5930,7 +5910,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 83.82 0)
+			(at 129.54 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5939,7 +5919,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 133.35 83.82 0)
+			(at 129.54 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5948,7 +5928,7 @@
 			)
 		)
 		(property "Manufacturer" "Wurth Elektronik"
-			(at 133.35 83.82 0)
+			(at 129.54 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5957,7 +5937,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "885012205047"
-			(at 133.35 83.82 0)
+			(at 129.54 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5966,7 +5946,7 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.pl/ProductDetail/Wurth-Elektronik/885012205047?qs=0KOYDY2FL2%252BET2lZ5U3%252BUg%3D%3D"
-			(at 133.35 83.82 0)
+			(at 129.54 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5981,7 +5961,7 @@
 			(uuid "2f0a7d4d-96c4-4416-b51f-6e7eba12269c")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "C402")
 					(unit 1)
@@ -6008,7 +5988,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10u/25V"
 			(at 129.54 74.9362 0)
 			(effects
 				(font
@@ -6078,7 +6058,7 @@
 			(uuid "c79f1053-5f18-4711-9486-5875aacfb252")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "C401")
 					(unit 1)
@@ -6173,7 +6153,7 @@
 			(uuid "6fae28f5-f5c8-403a-bd10-19b2d57bf890")
 		)
 		(instances
-			(project "POV_Motor_crtl"
+			(project "SynchGaze_Motor_Control"
 				(path "/a591a4a0-93a8-4a3b-994d-4036a770364c/7369541a-070a-4211-bd9b-ae2b5020e449"
 					(reference "L401")
 					(unit 1)
